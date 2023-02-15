@@ -1,0 +1,16 @@
+{
+  "name": "api-navigateurs",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.35.5",
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "lodash": "^4.17.21"
+  }
+}
