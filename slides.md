@@ -548,3 +548,17 @@ On ne peut pas toujours lister l’intégralité des pages à mettre en cache (c
 
 - <https://serviceworke.rs/>
 - <https://web.dev/progressive-web-apps/>
+
+---
+
+# Notifications
+
+Suite à des abus, les notifications doivent être déclenchées par une action de l'utilisateur (click, touch, etc...), et le navigateur doit récolter sa permission.
+
+- [MDN - Notifications API](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API/Using_the_Notifications_API)
+
+---
+
+# Online / Offline
+
+- [MDN - onLine](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/onLine)
