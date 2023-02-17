@@ -11,6 +11,7 @@
     "@slidev/theme-apple-basic": "^0.20.0",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "playwright-chromium": "^1.30.0"
   }
 }
